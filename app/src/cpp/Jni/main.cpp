@@ -1,6 +1,7 @@
 #include <iosteram>
 #include <String>
 #include <path>
+#include  <pythonassiter>
 using namespace std;
 
 { 
@@ -12,6 +13,9 @@ using namespace std;
         std.cin >> "null obj" >> add.method.lockal();
         try{ 
           cin.getOUTpath("/sdcard/Approid")
+      pythonassiter.nin;
+    nin.Fb*(path.road(log.py));
+         
            
             } catch(IOException io){
             
@@ -21,3 +25,4 @@ using namespace std;
           }else{
              return > std;
              }
+    #endif
